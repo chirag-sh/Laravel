@@ -1,5 +1,5 @@
 <?php
-
+echo "HI Baby";
 /**
  * Laravel - A PHP Framework For Web Artisans
  *
